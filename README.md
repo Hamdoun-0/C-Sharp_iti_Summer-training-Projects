@@ -1,1 +1,1 @@
-# C-Mini-inventory-System
+# C-sharp-Mini-inventory-System
