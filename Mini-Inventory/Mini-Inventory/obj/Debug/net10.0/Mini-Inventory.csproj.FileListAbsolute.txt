@@ -1,0 +1,15 @@
+C:\.NET iti\session3_arrays_collections\Task3\C-sharp-Mini-inventory-System\Mini-Inventory\Mini-Inventory\bin\Debug\net10.0\Mini-Inventory.exe
+C:\.NET iti\session3_arrays_collections\Task3\C-sharp-Mini-inventory-System\Mini-Inventory\Mini-Inventory\bin\Debug\net10.0\Mini-Inventory.deps.json
+C:\.NET iti\session3_arrays_collections\Task3\C-sharp-Mini-inventory-System\Mini-Inventory\Mini-Inventory\bin\Debug\net10.0\Mini-Inventory.runtimeconfig.json
+C:\.NET iti\session3_arrays_collections\Task3\C-sharp-Mini-inventory-System\Mini-Inventory\Mini-Inventory\bin\Debug\net10.0\Mini-Inventory.dll
+C:\.NET iti\session3_arrays_collections\Task3\C-sharp-Mini-inventory-System\Mini-Inventory\Mini-Inventory\bin\Debug\net10.0\Mini-Inventory.pdb
+C:\.NET iti\session3_arrays_collections\Task3\C-sharp-Mini-inventory-System\Mini-Inventory\Mini-Inventory\obj\Debug\net10.0\Mini-Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET iti\session3_arrays_collections\Task3\C-sharp-Mini-inventory-System\Mini-Inventory\Mini-Inventory\obj\Debug\net10.0\Mini-Inventory.AssemblyInfoInputs.cache
+C:\.NET iti\session3_arrays_collections\Task3\C-sharp-Mini-inventory-System\Mini-Inventory\Mini-Inventory\obj\Debug\net10.0\Mini-Inventory.AssemblyInfo.cs
+C:\.NET iti\session3_arrays_collections\Task3\C-sharp-Mini-inventory-System\Mini-Inventory\Mini-Inventory\obj\Debug\net10.0\Mini-Inventory.csproj.CoreCompileInputs.cache
+C:\.NET iti\session3_arrays_collections\Task3\C-sharp-Mini-inventory-System\Mini-Inventory\Mini-Inventory\obj\Debug\net10.0\Mini-Inventory.sourcelink.json
+C:\.NET iti\session3_arrays_collections\Task3\C-sharp-Mini-inventory-System\Mini-Inventory\Mini-Inventory\obj\Debug\net10.0\Mini-Inventory.dll
+C:\.NET iti\session3_arrays_collections\Task3\C-sharp-Mini-inventory-System\Mini-Inventory\Mini-Inventory\obj\Debug\net10.0\refint\Mini-Inventory.dll
+C:\.NET iti\session3_arrays_collections\Task3\C-sharp-Mini-inventory-System\Mini-Inventory\Mini-Inventory\obj\Debug\net10.0\Mini-Inventory.pdb
+C:\.NET iti\session3_arrays_collections\Task3\C-sharp-Mini-inventory-System\Mini-Inventory\Mini-Inventory\obj\Debug\net10.0\Mini-Inventory.genruntimeconfig.cache
+C:\.NET iti\session3_arrays_collections\Task3\C-sharp-Mini-inventory-System\Mini-Inventory\Mini-Inventory\obj\Debug\net10.0\ref\Mini-Inventory.dll
