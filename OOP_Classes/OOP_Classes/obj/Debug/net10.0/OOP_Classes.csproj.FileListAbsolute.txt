@@ -1,0 +1,15 @@
+C:\.NET iti\session8_Classes_OOP\Task4\iti--.NET-Classes-OOP\OOP_Classes\OOP_Classes\obj\Debug\net10.0\OOP_Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET iti\session8_Classes_OOP\Task4\iti--.NET-Classes-OOP\OOP_Classes\OOP_Classes\obj\Debug\net10.0\OOP_Classes.AssemblyInfoInputs.cache
+C:\.NET iti\session8_Classes_OOP\Task4\iti--.NET-Classes-OOP\OOP_Classes\OOP_Classes\obj\Debug\net10.0\OOP_Classes.AssemblyInfo.cs
+C:\.NET iti\session8_Classes_OOP\Task4\iti--.NET-Classes-OOP\OOP_Classes\OOP_Classes\obj\Debug\net10.0\OOP_Classes.csproj.CoreCompileInputs.cache
+C:\.NET iti\session8_Classes_OOP\Task4\iti--.NET-Classes-OOP\OOP_Classes\OOP_Classes\obj\Debug\net10.0\OOP_Classes.sourcelink.json
+C:\.NET iti\session8_Classes_OOP\Task4\iti--.NET-Classes-OOP\OOP_Classes\OOP_Classes\bin\Debug\net10.0\OOP_Classes.exe
+C:\.NET iti\session8_Classes_OOP\Task4\iti--.NET-Classes-OOP\OOP_Classes\OOP_Classes\bin\Debug\net10.0\OOP_Classes.deps.json
+C:\.NET iti\session8_Classes_OOP\Task4\iti--.NET-Classes-OOP\OOP_Classes\OOP_Classes\bin\Debug\net10.0\OOP_Classes.runtimeconfig.json
+C:\.NET iti\session8_Classes_OOP\Task4\iti--.NET-Classes-OOP\OOP_Classes\OOP_Classes\bin\Debug\net10.0\OOP_Classes.dll
+C:\.NET iti\session8_Classes_OOP\Task4\iti--.NET-Classes-OOP\OOP_Classes\OOP_Classes\bin\Debug\net10.0\OOP_Classes.pdb
+C:\.NET iti\session8_Classes_OOP\Task4\iti--.NET-Classes-OOP\OOP_Classes\OOP_Classes\obj\Debug\net10.0\OOP_Classes.dll
+C:\.NET iti\session8_Classes_OOP\Task4\iti--.NET-Classes-OOP\OOP_Classes\OOP_Classes\obj\Debug\net10.0\refint\OOP_Classes.dll
+C:\.NET iti\session8_Classes_OOP\Task4\iti--.NET-Classes-OOP\OOP_Classes\OOP_Classes\obj\Debug\net10.0\OOP_Classes.pdb
+C:\.NET iti\session8_Classes_OOP\Task4\iti--.NET-Classes-OOP\OOP_Classes\OOP_Classes\obj\Debug\net10.0\OOP_Classes.genruntimeconfig.cache
+C:\.NET iti\session8_Classes_OOP\Task4\iti--.NET-Classes-OOP\OOP_Classes\OOP_Classes\obj\Debug\net10.0\ref\OOP_Classes.dll
